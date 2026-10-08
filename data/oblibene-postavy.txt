@@ -1,0 +1,2 @@
+jmeno: Kuba	vek: 20	pohlavi: muž	boolean: ne	datum: 20.1.26	hodnoceni: 4.5
+jmeno: Elza	vek: 25	pohlavi: žena	boolean: ne	datum: 21.3.26	hodnoceni: 4.8
